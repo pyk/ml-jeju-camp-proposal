@@ -1,9 +1,8 @@
 # Improve Sequence-to-Sequence model using Adversarial Learning in TensorFlow
 
 In this proposal I will explain the reason why I want to be part of 
-Machine Learning Jeju Camp 2017, what is the idea that I propose, why I'm so
-excited about it and the general overview of step-by-step to implement my 
-idea.
+Machine Learning Jeju Camp 2017, what is the idea that I propose and the 
+general overview of step-by-step to implement my idea.
 
 This proposal is based on these papers:
 
